@@ -51,7 +51,7 @@ const Hero = () => {
                     </div>
                     <div className="text-right text-sm text-gray-600">
                       <p>johndoe@example.com</p>
-                      <p>+234 812 345 6789</p>
+                      <p>+237 672 333 228</p>
                     </div>
                   </div>
                   <div className="mt-4">
@@ -72,10 +72,10 @@ const Hero = () => {
                     <h4 className="font-semibold text-brand-blue border-b pb-1">Education</h4>
                     <div className="mt-2">
                       <div className="flex justify-between">
-                        <p className="font-medium">University of Lagos</p>
+                        <p className="font-medium">University of Buea</p>
                         <p className="text-sm text-gray-600">2017 - 2021</p>
                       </div>
-                      <p className="text-sm text-gray-800">BSc Computer Science</p>
+                      <p className="text-sm text-gray-800">B.Eng Computer Engineering</p>
                     </div>
                   </div>
                 </div>
