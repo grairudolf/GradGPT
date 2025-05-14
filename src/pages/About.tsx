@@ -48,10 +48,10 @@ const About = () => {
                 GradGPT was born out of a personal frustration experienced by our founder, who witnessed firsthand the challenges faced by talented graduates from African universities when applying for jobs. Despite having excellent qualifications, many were overlooked simply because their applications didn't meet the expectations of modern Applicant Tracking Systems (ATS) or follow country-specific best practices.
               </p>
               <p className="text-lg text-gray-700 mb-6">
-                In 2023, we assembled a team of AI specialists, career advisors, and HR professionals with deep knowledge of hiring practices across different African regions. Together, we built GradGPT - a platform that combines the power of artificial intelligence with human expertise to create truly effective career documents.
+                Developed in 2025, we by profesionals in AI, Software Development and HR with deep knowledge of hiring practices across different African regions. Together, we built GradGPT - a platform that combines the power of artificial intelligence with human expertise to create truly effective career documents.
               </p>
               <p className="text-lg text-gray-700">
-                Today, we're proud to have helped thousands of graduates from Nigeria, Kenya, South Africa, Ghana, Cameroon and beyond to secure interviews and job offers at leading companies both locally and internationally.
+                Today, we're  reaching out proud to be able to helped thousands of graduates from Nigeria, Kenya, South Africa, Ghana, Cameroon and beyond to secure interviews and job offers at leading companies both locally and internationally.
               </p>
             </div>
           </div>
